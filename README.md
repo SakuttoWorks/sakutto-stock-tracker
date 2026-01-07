@@ -22,6 +22,12 @@
 2. `python main.py` で起動します。
 
 ---
+
+## ⚠️ 免責事項 (Disclaimer)
+- 本ツールは投資判断の参考となる情報の提供を目的としており、投資勧誘を目的としたものではありません。
+- 本ツールの利用により生じたいかなる損害についても、開発者は一切の責任を負いません。投資判断は自己責任で行ってください。
+
+---
 ### 🔗 リンク
 - **公式X (Twitter)**: [@SakuttoWorks](https://x.com/SakuttoWorks)
 - **YouTubeチャンネル**: [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
