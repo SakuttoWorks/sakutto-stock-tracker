@@ -7,6 +7,7 @@
 
 ## 🚀 特徴
 - **1クリックで完了**: 銘柄リストを読み込み、最新の株価データを自動収集・分析します。
+- **そのまま使えるExcel**: データだけでなく、見やすいグラフや移動平均線が付いたExcelファイルを自動生成します。
 - **環境構築不要**: 本リポジトリにはソースコードを公開していますが、BOOTHではすぐに使える「実行ファイル版（EXE）」を配布しています。
 
 ## 📦 入手方法（完成品版）
@@ -15,7 +16,7 @@
 - **通常価格**: ~~1,480円~~
 - **セール価格**: **500円** (2026/01/19まで)
 
-👉 **[サクッと！自動化工房（BOOTH）](https://sakuttoworks.booth.pm)**
+👉 **[サクッと！株価ノート ダウンロードページ（BOOTH）](https://sakuttoworks.booth.pm/items/7830324)**
 
 ## 🛠️ 開発者向け（ソースコードから実行する場合）
 1. Python 3.10 以上の環境で `pip install -r requirements.txt` を実行して必要なライブラリをインストールしてください。
@@ -29,7 +30,7 @@
 
 ---
 ### 🔗 リンク
-- **公式X (Twitter)**: [@SakuttoWorks](https://x.com/SakuttoWorks)
+- **BOOTH**: [サクッと！自動化工房](https://sakuttoworks.booth.pm)
 - **YouTubeチャンネル**: [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
 
 © 2026 サクッと！自動化工房
