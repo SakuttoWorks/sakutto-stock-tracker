@@ -26,6 +26,7 @@
 ## 📢 関連ツール・ニュース
 **【Now On Sale】Googleマップから営業リストを自動作成！**
 面倒なコピペ作業から解放される、時短ツールが大好評発売中です。
+👉 **[解説記事を読む (Note)](https://note.com/sakutto_works/n/nf161ae773d0b)**
 👉 **[サクッと！リスト作成（BOOTH）](https://sakuttoworks.booth.pm/items/7894267)**
 
 **【Coming Soon】2026年2月リリース予定**
@@ -41,7 +42,7 @@
 
 ### 🔗 リンク
 - **BOOTH (公式ショップ)**: [sakuttoworks.booth.pm](https://sakuttoworks.booth.pm)
-- **Note (公式ブログ)**: [Coming Soon...]
+- **Note (公式ブログ)**: [note.com/sakutto_works](https://note.com/sakutto_works)
 - **YouTubeチャンネル**: [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
 
 ---
