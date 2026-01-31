@@ -18,11 +18,16 @@
 
 ## 🚀 Features (特徴)
 
-- **1-Click Automation (1クリックで完了)** 銘柄リストを読み込み、最新の株価データを自動収集・分析します。  
-  *Automates gathering financial data from Yahoo Finance.*
-- **Visual Excel Output (そのまま使えるExcel)** データだけでなく、見やすいグラフや移動平均線が付いたExcelファイルを自動生成します。  
+- **1-Click Automation (1クリックで完了)**
+  銘柄リストを読み込み、最新の株価データを自動収集・分析します。
+  *Automates financial data gathering from Yahoo Finance with a single click.*
+
+- **Visual Excel Output (そのまま使えるExcel)**
+  データだけでなく、見やすいグラフや移動平均線が付いたExcelファイルを自動生成します。
   *Generates professional Excel charts and moving average lines automatically.*
-- **Zero Setup (環境構築不要)** BOOTH等で配布している「実行ファイル版（EXE）」なら、Pythonのインストール不要ですぐに使えます。  
+
+- **Zero Setup (環境構築不要)**
+  BOOTH等で配布している「実行ファイル版（EXE）」なら、Pythonのインストール不要ですぐに使えます。
   *Portable execution for Windows users. Ready to use out of the box.*
 
 ---
@@ -31,22 +36,27 @@
 
 プログラムの知識がなくてもすぐに使える「完成品（EXE版）」は、以下の公式ショップにて配布・販売しております。
 
-- **Price**: **1,480 JPY** (Buy once, use forever)
+- **Product Type**: Standalone Windows Application (.exe)
+- **Price**: **$9.99 / 1,480 JPY** (Buy once, use forever)
 
-🌍 **Global Store:** [Under Review on Lemon Squeezy]  
+🌍 **Global Store:** [Under Review on Lemon Squeezy]
 🇯🇵 **Domestic Store:** **[サクッと！株価ノート (BOOTH)](https://sakuttoworks.booth.pm/items/7830324)**
 
 ---
 
 ## 📂 Repository Structure (リポジトリ構成)
 
+This repository hosts the source code for transparency and customizability.
+
 - **`main.py`**: The core engine of the tracker.
-- **`【設定】銘柄リスト`**: Contains `jp_stocks.csv`.  
-  *(Note: We proudly maintain this Japanese folder name as a mark of its origin and reliability.)*
+- **`【設定】銘柄リスト`**: Configuration folder containing `jp_stocks.csv`.
+  *(Note: We intentionally maintain Japanese directory names as a signature of our domestic engineering roots. The system is fully Unicode-compatible.)*
 
 ---
 
 ## 🛠️ For Developers (開発者向け)
+
+If you wish to run the source code directly:
 
 1. Python 3.10+
 2. `pip install -r requirements.txt`
@@ -55,10 +65,13 @@
 ---
 
 ## 📢 Related Projects
-**【Now On Sale】Googleマップから営業リストを自動作成！** Googleマップの情報を1クリックでExcel化。面倒なコピペ作業から解放される時短ツールです。  
+
+**【Now On Sale】Googleマップから営業リストを自動作成！**
+Googleマップの情報を1クリックでExcel化。面倒なコピペ作業から解放される時短ツールです。
 👉 **[サクッと！リスト作成（BOOTH）](https://sakuttoworks.booth.pm/items/7894267)**
 
-**【Next Gen】Project _GHOST_SHIP** 2026年のAIエージェント経済圏に向けた、次世代の自動化インフラを開発中。  
+**【Next Gen】Project _GHOST_SHIP**
+2026年のAIエージェント経済圏に向けた、次世代の自動化インフラを開発中。
 👉 **[View Profile for details](https://github.com/SakuttoWorks)**
 
 ---
@@ -73,7 +86,7 @@
 
 ### ⚠️ 免責事項 (Disclaimer)
 - 本ツールは投資判断の参考となる情報の提供を目的としており、投資勧誘を目的としたものではありません。投資判断は自己責任で行ってください。
-- *This tool is for informational purposes only. Use at your own risk.*
+- *This tool is for informational purposes only. The developer is not responsible for any financial losses or investment decisions. Use at your own risk.*
 
 ---
 <p align="center">
